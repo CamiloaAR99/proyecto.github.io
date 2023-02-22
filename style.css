@@ -1,0 +1,73 @@
+*{
+  box-sizing: border-box;
+}
+
+
+html {
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+  }
+  
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-image: url("../Proyecto/Fondo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        
+        -o-background-size: cover;
+    
+        
+   
+  }
+  
+  h1, h2 {
+    font: family 3.5em 'Faster One', cursive;
+    color: burlywood 
+  }
+  
+  /* header styles */
+  
+  h1 {
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Tilt Warp', cursive;
+
+  }
+  
+  header p {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+  }
+  
+  /* section styles */
+  
+  section article {
+    width: 33%;
+    float: left;
+  }
+  
+  section p {
+    margin: 0;
+    color: black;
+  }
+  
+  section ul {
+    margin-top: 0;
+    color: black;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+    letter-spacing: -5px;
+    margin-bottom: 10px;
+    font-family: 'Tilt Warp', cursive;
+   
+  }
+
+ 
+  
+  

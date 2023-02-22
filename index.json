@@ -1,0 +1,41 @@
+{
+    "escuadron" : "Actores Hollywood",
+    "ciudad" : "Bogota",
+    "creado" :2023,
+    "base" : "Super tower",
+    "active" : true,
+    "miembros" : [
+      {
+        "nombre" : "Leonardo Dicaprio",
+        "edad" : 35,
+        "tipo" : "Accion",
+        "peliculas" : [
+          "El Lobo de Wall Street",
+          "Titanic",
+          "El Gran Gatsby"
+        ]
+        
+      },
+      {
+        "nombre" : "Brad Pitt",
+        "edad" : 45,
+        "tipo" : "Drama",
+        "peliculas" : [
+          "Tren Bala",
+          "Troya",
+          "El Club de la Pelea"
+        ]
+      },
+      {
+        "nombre" : "Will Smith",
+        "edad" : 39,
+        "tipo" : "Aventura",
+        "peliculas" : [
+          "Proyecto Geminis",
+          "Focus",
+          "Soy leyenda"
+         
+        ]
+      }
+    ]
+  }
